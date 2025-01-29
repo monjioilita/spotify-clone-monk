@@ -1,0 +1,8 @@
+{
+  "name": "spotify-clone-monk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "c1aa6ce1"
+}
